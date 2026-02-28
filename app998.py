@@ -1,15 +1,4 @@
 
-"""
-🎬 AI Film Preproduction Studio — v2.0
-=======================================
-NEW FEATURES in v2:
-  ① 🔤 Enhanced Title Generator  — style variants, tone, taglines, regenerate
-  ② 🎨 Style & Scale Settings    — visual style, film scale, aspect ratio,
-                                    shooting format, content rating
-  ③ 🎭 Theme Selector             — primary + secondary themes shape every prompt
-  ④ 💰 Budget Estimator           — AI line-item breakdown + funding tips
-"""
-
 import streamlit as st
 from openai import OpenAI
 import os
